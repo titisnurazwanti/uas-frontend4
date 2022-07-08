@@ -1,0 +1,182 @@
+{
+    "profile":"assets/img/profilee.jpg",
+    "about":[
+        {
+            "title":"Titis Nur Azwanti",
+            "adress":"Jl. Raya Situbondo · Banyuwangi, Jawa Timur · 68453 · titisnurazwanti@gmail.com"
+        },
+        {
+            "isi":"I am a student at the PGRI Banyuwangi College of Computer Science.  With a bachelor's degree in Informatics Engineering.  I am currently in my final 4th semester."
+        },
+        {
+            "sosmed":[
+                {
+                    "name":"youtube",
+                    "icon":"fab fa-youtube"
+                },
+                {
+                    "name":"github",
+                    "icon":"fab fa-github"
+                },
+                {
+                    "name":"instagram",
+                    "icon":"fab fa-instagram"
+                },
+                {
+                    "name":"facebook",
+                    "icon":"fab fa-facebook"
+                }
+            ]
+        }
+    ],
+    "experience":[
+        {
+            "title":"EXPERIENCE"
+        },
+        {
+            "title":"Mobile Apps Designer - FIGMA",
+            "subtitle":"Wedding Plan App",
+            "content":"Wedding plan is a platform that provides consulting services for planning and implementing wedding events, with complete facilities, professional services and competitive prices. Here I am tasked with creating an application design that is attractive and easily accessible to users.",
+            "date":"January 2022 - June 2022"
+        },
+        {
+            "title":"Build a Mobile App - FLUTTER",
+            "subtitle":"Wedding Plan App",
+            "content":"Wedding plan is a platform that provides consulting services for planning and implementing wedding events, with complete facilities, professional services and competitive prices. Here we implement standard widgets / objects in designing the user interface design of Android mobile-based applications.",
+            "date":"January 2022 - June 2022"
+        }
+    ],
+    "education":[
+        {
+            "title":"EDUCATION"
+        },
+        {
+            "name":"Taman Kanak - Kanak",
+            "subname":"TK Panca Bakti",
+            "date":"2007 - 2009"
+        },
+        {
+            "name":"Madrasah Ibtidaiyah",
+            "subname":"MI Miftahul Huda",
+            "date":"2009 - 2014"
+        },
+        {
+            "name":"Madrasah Tsanawiyah",
+            "subname":"MTs Negeri Wongsorejo",
+            "date":"2014 - 2017"
+        },
+        {
+            "name":"Sekolah Menengah Kejuruan",
+            "subname":"SMK Negeri Wongsorejo",
+            "date":"2017 - 2020"
+        },
+        {
+            "name":"Kuliah",
+            "subname":"Sekolah Tinggi Ilmu Komputer PGRI Banyuwangi",
+            "date":"2020 - Now"
+        }
+    ],
+    "skills":[
+        {
+            "title":"SKILLS"
+        },
+        {
+            "title":"PROGRAMMING LANGUAGES & TOOLS"
+        },
+        {
+            "icon":[
+                {
+                    "name":"html5",
+                    "icon":"fab fa-html5"
+                },
+                {
+                    "name":"css",
+                    "icon":"fab fa-css3-alt"
+                },
+                {
+                    "name":"js",
+                    "icon":"fab fa-js-square"
+                },
+                {
+                    "name":"react",
+                    "icon":"fab fa-react"
+                },
+                {
+                    "name":"nodejs",
+                    "icon":"fab fa-node-js"
+                },
+                {
+                    "name":"sass",
+                    "icon":"fab fa-sass"
+                },
+                {
+                    "name":"wordpress",
+                    "icon":"fab fa-wordpress"
+                },
+                {
+                    "name":"npm",
+                    "icon":"fab fa-npm"
+                }
+            ]
+        },
+        {
+            "title":"WORKFLOW",
+            "isi":[
+                {
+                    "icon":"fas fa-check",
+                    "text":"Mobile-First, Responsive Design"
+                },
+                {
+                    "icon":"fas fa-check",
+                    "text":"Cross Browser Testing & Debugging"
+                },
+                {
+                    "icon":"fas fa-check",
+                    "text":"Cross Functional Teams"
+                },
+                {
+                    "icon":"fas fa-check",
+                    "text":"Agile Development & Scrum"
+                }
+            ]
+        }
+    ],
+    "interests":{
+        "title":"INTERESTS",
+        "paragraf 1":"In addition to being a web developer and design, I enjoy my time watching a number of movies, dramas and television shows in the action and fantasy genres.",
+        "paragraf 2":"My other interest is the interest in work related to accounting. There I felt that I found my true self. There are a lot of things that I do but are out of desire, but for this one thing it's very different and I can feel that way."
+    },
+    "awards":[
+        {
+            "title":"AWARDS & CERTIFICATIONS"
+        },
+        {
+            "icon":"fas fa-trophy text-warning",
+            "text":"Google Analytics Certified Developer"
+        },
+        {
+            "icon":"fas fa-trophy text-warning",
+            "text":"Mobile Web Specialist - Google Certification"
+        },
+        {
+            "icon":"fas fa-trophy text-warning",
+            "text":"1st Place - University of Colorado Boulder - Emerging Tech Competition 2020"
+        },
+        {
+            "icon":"fas fa-trophy text-warning",
+            "text":"1st Place - University of Colorado Boulder - Adobe Creative Jam 2020 (UI Design Category)"
+        },
+        {
+            "icon":"fas fa-trophy text-warning",
+            "text":"2nd Place - University of Colorado Boulder - Emerging Tech Competition 2021"
+        },
+        {
+            "icon":"fas fa-trophy text-warning",
+            "text":"1st Place - James Buchanan High School - Hackathon 2021"
+        },
+        {
+            "icon":"fas fa-trophy text-warning",
+            "text":"3rd Place - James Buchanan High School - Hackathon 2022"
+        }
+    ]
+}
